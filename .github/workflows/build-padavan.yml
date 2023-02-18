@@ -84,7 +84,7 @@ jobs:
 
       env:
 
-        TNAME: MI-MINI
+        TNAME: B70
 
         KERNEL: 3.4
 
