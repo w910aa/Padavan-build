@@ -61,7 +61,6 @@ jobs:
         #########################################################################################
         #自定义添加其它功能请参考源码configs/templates/目录下的config文件。按照上面的格式添加即可
         #格式如下：
-         echo "CONFIG_FIRMWARE_INCLUDE_V2RAY=y" >> .config
         #########################################################################################
         sudo ./cleCONFIG_FIRMWARE_INCLUDE_V2RAY=nar_tree
         sudo ./build_firmware_modify $TNAME 0
